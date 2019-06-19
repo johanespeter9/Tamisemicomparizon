@@ -1,0 +1,2 @@
+# Tamisemicomparizon
+comparing two column
